@@ -2,21 +2,21 @@
 .btn {
   font-size: 16px;
   font-family: $primary-font;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: capitalize;
   padding: 15px 30px;
   border-radius: 30px;
   border: 0;
   position: relative;
   z-index: 1;
-  transition: .1s ease;
+  transition: .2s ease;
   white-space: nowrap;
 
   &::before {
     position: absolute;
     content: "";
-    height: 48px;
-    width: 164px;
+    height: 100%;
+    width: 100%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -69,8 +69,8 @@
   &.focus,
   &.active {
     background-color: transparent !important;
-    border-color: #343F53 !important;
-    color: #343F53;
+    border-color: $primary-color !important;
+    color: $primary-color;
   }
   &::before{
     border-color: $primary-color;
