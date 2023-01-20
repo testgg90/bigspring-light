@@ -10,7 +10,7 @@
     <div class="row">
       {{ range first 1 (where .Data.Pages "Type" "featured") }}
       <div class="col-12 mb-5 pb-5">
-        <div class="row align-items-center">
+        <div class="row align-items-left">
           {{ if .Params.image }}
           <div class="col-md-6 mb-4 mb-md-0">
             <img src="{{ .Params.image | relURL }}" alt="{{.Title}}" class="img-fluid rounded-lg w-100">
