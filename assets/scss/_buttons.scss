@@ -69,8 +69,8 @@
   &.focus,
   &.active {
     background-color: transparent !important;
-    border-color: $primary-color !important;
-    color: $primary-color;
+    border-color: #343F53 !important;
+    color: #343F53;
   }
   &::before{
     border-color: $primary-color;
