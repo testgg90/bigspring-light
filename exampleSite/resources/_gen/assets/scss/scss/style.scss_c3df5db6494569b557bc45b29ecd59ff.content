@@ -1,7 +1,7 @@
 /*  typography */
 body {
   line-height: 1.2;
-  font-family: "Lato", sans-serif;
+  font-family: "DM sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
   color: #777; }
@@ -12,7 +12,7 @@ p,
   color: #777;
   font-size: 16px;
   line-height: 1.7;
-  font-family: "Lato", sans-serif; }
+  font-family: "DM sans", sans-serif; }
 
 small {
   font-size: 88%; }
@@ -24,7 +24,7 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
   color: #222;
-  font-family: "Lato", sans-serif;
+  font-family: "DM sans", sans-serif;
   font-weight: 700;
   line-height: 1.2; }
 
@@ -64,7 +64,7 @@ h6,
 /* Button style */
 .btn {
   font-size: 16px;
-  font-family: "Lato", sans-serif;
+  font-family: "DM sans", sans-serif;
   font-weight: 600;
   text-transform: capitalize;
   padding: 15px 30px;
