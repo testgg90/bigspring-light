@@ -1,21 +1,21 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Produt Ecosystem"
 url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
+name = "Resources"
 url = "blog/"
 weight = 2
 
 [[main]]
-name = "Pricing"
+name = "Solutions"
 url = "pricing/"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "About us"
 url = "contact/"
 weight = 4
 
