@@ -1,13 +1,11 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: Future of Work & Extended Workforce Planning is here
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Simplify Workforce offers a range of services, from VMS to global sourcing, to help you effectively manage and optimize your workforce. With Simplify, you get a reliable partner, not just a vendor.
   button:
     enable: true
-    label: Contact Us
+    label: Start journey
     link: contact/
 feature:
   enable: true
