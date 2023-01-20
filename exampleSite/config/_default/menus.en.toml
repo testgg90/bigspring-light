@@ -28,7 +28,7 @@ url = "faq/"
 [[main]]
 name = "Produt Ecosystem"
 url = "/"
-weight = "5"
+weight = "1"
 [[main]]
 name = "Resources"
 url = "blog/"
