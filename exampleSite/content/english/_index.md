@@ -32,40 +32,28 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Avoid falling foul to employment compliance & regulatory matters
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Employment law can vary from territory, country and reference tables that ensure your recruitment approach stays within the law. Adoption helps organizations to manage co-employment risk and ensure.
     button:
       enable: true
       label: LEARN MORE
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Integrate Purchase-To- Pay With Your ERP
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Simplify VMS includes timesheet and expense management modules that can be tailored to honor pay scales and pay rules of the places around the world Our platform can all major ERP/financial systems machine-to-machine data processing. With Simplify VMS, manual key-fill data spreadsheets.
     button:
       enable: true
       label: LEARN MORE
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: Pay Vendor & Employees On Time, Every Time
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Optimizing cash tied up in the supply chain means formalizing automating sign-off and payment processing workflows to minimize manual processing, errors, and ad-hoc events. With Simplify VMS, you gain tools, no matter if you have 10 hires or 10,000!
     button:
       enable: true
       label: LEARN MORE
