@@ -77,7 +77,7 @@ call_to_action:
   content: Simplify Workforce offers a range of services, from VMS to global sourcing, to help you effectively manage and optimize your workforce. With Simplify, you get a reliable partner, not just a vendor.
   button:
     enable: true
-    label: Contact Us
+    label: Request a demo
     link: contact/
 title: SimplifyVMS
 
