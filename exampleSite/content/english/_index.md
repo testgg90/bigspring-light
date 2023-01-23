@@ -44,7 +44,7 @@ service:
       consquat.
     button:
       enable: true
-      label: Check it out
+      label: LEARN MORE
       link: "#"
   - title: It is a privately owned Information and cyber security company
     images:
@@ -56,7 +56,7 @@ service:
       consquat.
     button:
       enable: true
-      label: Check it out
+      label: LEARN MORE
       link: "#"
   - title: It’s a team of experienced and skilled people with distributions
     images:
@@ -68,7 +68,7 @@ service:
       consquat.
     button:
       enable: true
-      label: Check it out
+      label: LEARN MORE
       link: "#"
   - title: A company standing different from others
     images:
@@ -80,7 +80,7 @@ service:
       consquat.
     button:
       enable: true
-      label: Check it out
+      label: LEARN MORE
       link: "#"
 screenshot:
   enable: true
