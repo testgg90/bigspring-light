@@ -58,17 +58,13 @@ service:
       enable: true
       label: LEARN MORE
       link: "#"
-  - title: A company standing different from others
+  - title: It’s a Next-Gen VMS Software
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Explore why so many Fortune 500 businesses are ditching their 1st gen SaaS platform VMS systems in favor of Total Talent Management VMS Software.
     button:
       enable: true
-      label: LEARN MORE
+      label: See all features
       link: "#"
 screenshot:
   enable: true
@@ -76,10 +72,9 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: It’s easy to get started
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Simplify Workforce offers a range of services, from VMS to global sourcing, to help you effectively manage and optimize your workforce. With Simplify, you get a reliable partner, not just a vendor.
   button:
     enable: true
     label: Contact Us
