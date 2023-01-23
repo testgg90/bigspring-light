@@ -4,18 +4,19 @@ body {
   font-family: "DM sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
-  color: #777; }
+  color: rgba(31, 41, 50, 0.7); }
 
 p,
 .paragraph {
   font-weight: 400;
-  color: #777;
+  color: rgba(31, 41, 50, 0.7);
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 160%;
   font-family: "DM sans", sans-serif; }
 
 small {
-  font-size: 88%; }
+  font-size: 16px;
+  line-height: 23px; }
 
 h1, .h1,
 h2, .h2,
@@ -26,12 +27,12 @@ h6, .h6 {
   color: #222;
   font-family: "DM sans", sans-serif;
   font-weight: 700;
-  line-height: 1.2; }
+  line-height: 62px; }
 
 h1,
 .h1 {
   font-size: 48px; }
-  @media (max-width: 767px) {
+  @media (max-width: 620px) {
     h1,
     .h1 {
       font-size: 40px; } }
@@ -505,7 +506,7 @@ a.post-title {
     line-height: 40px;
     border-radius: 5px;
     background: #EDF6F5;
-    text-align: center;
+    text-align: left;
     padding: 0;
     margin-right: 10px;
     border: 0;
@@ -522,7 +523,7 @@ a.post-title {
     color: #fff; }
 
 .slick-dots {
-  text-align: center;
+  text-align: left;
   margin-top: 20px;
   padding: 0; }
   .slick-dots li {
